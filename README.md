@@ -1,2 +1,2 @@
-# actividades_dise-o_interfaces
+# actividades_diseno_interfaces
 Sistema de información web que contiene varias opciones de juego e interacción.
