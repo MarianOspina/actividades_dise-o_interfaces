@@ -13,5 +13,27 @@
 h1, p, input, button {
   margin: 10px;
 }
-/**/
 
+/*Pagina 2*/
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.juegos {
+  width: 150px;
+  height: 150px;
+  margin: 20px;
+  cursor: pointer;
+  border: 2px solid rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.juegos img {
+  max-width: 100%;
+  max-height: 100%;
+}
